@@ -39,7 +39,7 @@ où que j'ai pu mettre en application mes compétences sur différents langages 
 
 # Nom d'équipe
 MHN
-Ce sont les premières lettres de nos prénoms respectif.
+Ce sont les premières lettres de nos prénoms respectifs.
 Notre slogan : "Welcome to your flop"
 
 # Qu'avez vous compris de Campus Track ?
