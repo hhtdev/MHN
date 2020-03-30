@@ -20,7 +20,7 @@ Soudainement mon collègue et moi nous avons eu la même idée "Et si on faisait
 J'y ai rencontré des personnes incroyable et des paysages magnifiques." - Hugo HERAULT
 
 # Lorsque vous avez rejoint Campus Academy, qu'est-ce qui vous a plus stimulé ?
-"Le fait de me ré-orienter dans un domaine qui m'intéresse et dans lequel j'ai envie de m'investir et d'en faire mon métier plus tard !" - Nicolas HAMY
+"Le fait de me réorienter dans un domaine qui m'intéresse et dans lequel j'ai envie de m'investir et d'en faire mon métier plus tard !" - Nicolas HAMY
 
 "Ce qui m'a le plus stimulé c'est l'alternance." - Maxime LEBRETON
 
@@ -43,7 +43,7 @@ Ce sont les premières lettres de nos prénoms respectifs.
 Notre slogan : "Welcome to your flop"
 
 # Qu'avez vous compris de Campus Track ?
-Il s'agit de s'initier au travail en équipe, ainsi que de nouer des liens avec d'autres personnes au travers de l'école.
+Il s'agit avant tout de s'initier au travail en équipe, ainsi que de nouer des liens avec d'autres personne au travers de l'école. Mais également de répondre à un besoin client, qui dans notre cas est une approche numérique afin de sensibilisé le plus de personnes au grand thème de l'environnement et de l'avenir de notre planête.
 
 # Le projet
 Nous avons choisi le projet n°1 : La polution du numérique
