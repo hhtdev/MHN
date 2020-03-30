@@ -46,4 +46,4 @@ Notre slogan : "Welcome to your flop"
 Il s'agit avant tout de s'initier au travail en équipe, ainsi que de nouer des liens avec d'autres personne au travers de l'école. Mais également de répondre à un besoin client, qui dans notre cas est une approche numérique afin de sensibilisé le plus de personnes au grand thème de l'environnement et de l'avenir de notre planête.
 
 # Le projet
-Nous avons choisi le projet n°1 : La polution du numérique
+Nous avons choisi le projet n°1 : La pollution du numérique
