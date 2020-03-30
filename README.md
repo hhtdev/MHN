@@ -12,7 +12,7 @@ Campus Track
 
 # Présentation de l'équipe
 "Un jour, en fin de semaine pendant un cours sur les langages HTML/CSS, l'intervenant nous a demandé de réaliser un petit site web avec quelques pages!
-Soudainement mon collègue et moi nous avons eu la même idée "Eh si on faisait un site sur Shrek". Ouioui je sais shrek... Atypique non !
+Soudainement mon collègue et moi nous avons eu la même idée "Et si on faisait un site sur Shrek". Ouioui je sais Shrek... Atypique non !
 On a donc travailler d'arrache pieds à faire notre tout premier site sur le thème de Shrek avec une animation de boule de feu en JavaScript,pour au final avoir un simple 12, mais peu importe l'issue de la note j'en retiens que travailler sur un site avec passion reste le principal" - Nicolas HAMY
 
 "Un jour j'ai passé 3 jours et 3 nuits à farm sur dragon quest swords, j'étais crevé mais content." - Maxime LEBRETON
@@ -40,7 +40,7 @@ où que j'ai pus mettre en application mes compétences sur différents langages
 
 # Nom d'équipe
 MHN
-Ce sont les première lettres de nos prénoms réspéctif.
+Ce sont les première lettres de nos prénoms respectif.
 Notre slogan : "Welcome to your flop"
 
 # Qu'avez vous compris de Campus Track ?
