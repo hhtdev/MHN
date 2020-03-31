@@ -49,39 +49,46 @@ Notre slogan : "Welcome to your flop"
 Il s'agit avant tout de s'initier au travail en équipe, ainsi que de nouer des liens avec d'autres personnes au travers de l'école. Mais également de répondre à un besoin client, qui dans notre cas est une approche numérique afin de sensibiliser le plus de personnes au grand thème de l'environnement et de l'avenir de notre planète.
 
 # Organisation d'équipe
-- Il est particulièrement important d'être organiser pour être efficace dans un contexte où il est demander de travailler en équipes à distance mais également de fournir plusieurs livrables parfois rapidement dans ces 10 prochains jours, ce qui nécéssite une gestion parfaite et une certaine rigeur envers le projet !
+- Au regard du contexte, en quoi il est particulièrement important de s'organiser pour être efficace ?
+Il est particulièrement important d'être organiser pour être efficace dans un contexte où il est demander de travailler en équipes à distance mais également de fournir plusieurs livrables parfois rapidement dans ces 10 prochains jours, ce qui nécéssite une gestion parfaite et une certaine rigeur envers le projet !
 
-- Nous utilisons différents outils collaboratifs de communication comme Slack, Discord, GooleSlides et GitHub pour notre projet.
+- Quels outils de collaboratifs de communication, de partage allez-vous utiliser ?
+Nous utilisons différents outils collaboratifs de communication comme Slack, Discord, GooleSlides et GitHub pour notre projet.
 
-- Notre équipe étant composée de 3 membres pour un projet de 10 jours, nous avons donc décidé d'établir une communication qui se fait à l'oral avec un point tous les matins où que le chef de projet recense et assigne les tâches aux différents membres de l'équipe. Nous effectuons également des réunions en début d'après-midi et en fin de journée afin de discuter de notre avancement sur les différentes tâches. A noté que nous communiquons en permanence via des canaux de discussions sur Slack afin de résoudre rapidement les différents problèmes que nous pouvons rencontrer sur nos tâches.
+- Quelle méthodologie de gestion de projet allez-vous mettre en oeuvre ?
+A quelle fréquence allez-vous faire des réunions, points de synchronisation ... ?
+Comment organisez-vous la répartitions des tâches, rôles, responsabilités entre vous ?
+Notre équipe étant composée de 3 membres pour un projet de 10 jours, nous avons donc décidé d'établir une communication qui se fait à l'oral avec un point tous les matins où que le chef de projet recense et assigne les tâches aux différents membres de l'équipe. Nous effectuons également des réunions en début d'après-midi et en fin de journée afin de discuter de notre avancement sur les différentes tâches. A noté que nous communiquons en permanence via des canaux de discussions sur Slack afin de résoudre rapidement les différents problèmes que nous pouvons rencontrer sur nos tâches.
 
 # Le projet
 Nous avons choisi le projet n°1 : La pollution du numérique
 
-# Qui est votre annonceur ?
-Notre annonceur est Clément LEVARD
+# Présentation du projet
 
-# Quelle est sa problématique ?
-Sensibiliser la population à l'impact du numérique sur notre consommation en CO2.
+- Qui est votre annonceur ?
+Notre annonceur est Hadrien LEVARD Ingénieur en agro-développement et président de président de l'association "La cité de l'environnement"
 
-# Pourquoi fait-il appel à vous ?
-Etant jeunes et étudiants dans le domaine en question, nous sommes capables d'y apporté notre expertise.
+- Quelle est sa problématique ?
+La principale problématique du projet est de sensibiliser la population à l'impact du numérique sur notre consommation de Co2.
 
-# Que pouvez-vous lui apporter ?
-Notre point de vue et nos compétences dans le domaine informatique.
+- Pourquoi fait-il appel à vous ?
+Nous sommes jeunes, étudiant dans le domaine en question, et étant capable d'apporter notre expertise sur le sujet.
 
-# Quel est votre vision du projet ?
-Nous souhaitons réaliser une application pour smartphone, montrant l'impact de l'envoi d'un ou plusieurs mail(s) sur la quantité d'émission de CO2.
+- Que pouvez-vous lui apporter ?
+Notre point de vue ainsi que nos compétences dans le domaine informatique.
 
-# Qui sont les utilisateurs ?
-Pour tous les utilisateurs d'une adresse mail
+- Quel est votre vision du projet ?
+Nous souhaitons réaliser une application pour smartphone, montrant l'impact de l'envois d'un, ou plusieurs, mail(s) sur la quantité d'émission de Co2.
 
-# La fonctionnalité
-Il s'agit d'une barre de progression réglable par l'utilisateur, indiquant le nombre de mail à envoyer. En fonction de la valeur renvoyée par cette barre, on calcule la quantité de Co2 rejetée que l'on compare à d'autres sources externes. Exemple : 1 mail = 1 ampoule allumée pendant 1 heure.
+- Qui sont les utilisateurs ?
+Les utilisateurs concernés, plus précisemment tous les utilisateur possédant au moins une adresse mail.
 
-# Niveau de difficulté du projet
-Le backend sera assez simple à mettre en place via l'utilisation d'un framework mobile populaire.
-Le front demandera un peu plus de temps afin de prévoir une charte graphique adéquate.
+- La fonctionnalité
+Il s'agit d'une barre de progression réglable par l'utilisateur, indiquant le nombre de mail à envoyer. En fonction de la valeur renvoyé par cette barre, on calcule la quantité de Co2 rejeté que l'on compare à d'autre source externe. Exemple : 1 mail = 1 ampoule allumée pendant 1 heure.
 
-# Coût
+- Niveau de difficulté du projet
+La partie backend sera assez simple à mettre en place via l'utilisation d'un framework mobile populaire.
+La partie front demandera un peu plus de temps afin de prévoir une charte graphique adéquate au projet en question.
+
+- Coût
 Les frais de création d'un compte développeur sur le playstore de Google, afin d'héberger l'apk.
