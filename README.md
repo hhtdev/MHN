@@ -22,7 +22,7 @@ J'y ai rencontré des personnes incroyable et des paysages magnifiques." - Hugo 
 # Lorsque vous avez rejoint Campus Academy, qu'est-ce qui vous a plus stimulé ?
 "Le fait de me réorienter dans un domaine qui m'intéresse et dans lequel j'ai envie de m'investir et d'en faire mon métier plus tard !" - Nicolas HAMY
 
-"Ce qui m'a le plus stimulé c'est l'alternance." - Maxime LEBRETON
+"Ce qui m'a le plus stimulé, c'est l'alternance." - Maxime LEBRETON
 
 "Le machine learning" - Hugo HERAULT
 
