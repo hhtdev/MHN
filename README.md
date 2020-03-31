@@ -49,7 +49,11 @@ Notre slogan : "Welcome to your flop"
 Il s'agit avant tout de s'initier au travail en équipe, ainsi que de nouer des liens avec d'autres personne au travers de l'école. Mais également de répondre à un besoin client, qui dans notre cas est une approche numérique afin de sensibilisé le plus de personnes au grand thème de l'environnement et de l'avenir de notre planête.
 
 # Organisation d'équipe
-Notre équipe étant composé de 3 membres, la communication se fait à l'oral avec un point tout les matins pour discuter de notre avancement sur les différentes tâches. Le chef de projet recense et assigne les tâches aux différents membres de l'équipe.
+- Il est particulièrement important d'etre organiser pour être efficace un contexte où il est demander de travailler en équipes à distance mais également de founir plusieurs livrable parfois rapidment dans ces 10 prochains jours, ce qui nécissite une gestion parfaite et une certaine rigourosité envers le projet !
+
+- Nous utilisons différents outils collaboratifs de communication comme Slack, Discord, GooleSlides et GitHub pour notre projet.
+
+- Notre équipe étant composé de 3 membres pour un projet de 10 jours, nous avons donc décider d'établir une communication se fait à l'oral avec un point tout les matins où que le chef de projet recense et assigne les tâches aux différents membres de l'équipe. Nous effectons également des réunions en début d'après-midi et en fin de journée afin de discuter de notre avancement sur les différentes tâches. A noté que nous communiquons en permanence via des canaux de discussions sur Slack afin de résoudre rapidement les différents problèmes qu'on puisse rencontrer sur nos tâches.
 
 # Le projet
 Nous avons choisi le projet n°1 : La pollution du numérique
