@@ -62,7 +62,7 @@ Nous avons choisi le projet n°1 : La pollution du numérique
 Notre annonceur est Clément LEVARD
 
 # Quelle est sa problématique ?
-Sensibiliser la population à l'impact du numérique sur notre consommation en Co2.
+Sensibiliser la population à l'impact du numérique sur notre consommation en CO2.
 
 # Pourquoi fait-il appel à vous ?
 Etant jeunes et étudiants dans le domaine en question, nous sommes capables d'y apporté notre expertise.
@@ -71,13 +71,13 @@ Etant jeunes et étudiants dans le domaine en question, nous sommes capables d'y
 Notre point de vue et nos compétences dans le domaine informatique.
 
 # Quel est votre vision du projet ?
-Nous souhaitons réaliser une application pour smartphone, montrant l'impact de l'envoi d'un ou plusieurs mail(s) sur la quantité d'émission de Co2.
+Nous souhaitons réaliser une application pour smartphone, montrant l'impact de l'envoi d'un ou plusieurs mail(s) sur la quantité d'émission de CO2.
 
 # Qui sont les utilisateurs ?
 Pour tous les utilisateurs d'une adresse mail
 
 # La fonctionnalité
-Il s'agit d'une barre de progression réglable par l'utilisateur, indiquant le nombre de mail à envoyer. En fonction de la valeur renvoyée par cette barre, on calcule la quantité de Co2 rejetée que l'on compare à d'autre source externe. Exemple : 1 mail = 1 ampoule allumée pendant 1 heure.
+Il s'agit d'une barre de progression réglable par l'utilisateur, indiquant le nombre de mail à envoyer. En fonction de la valeur renvoyée par cette barre, on calcule la quantité de Co2 rejetée que l'on compare à d'autres sources externes. Exemple : 1 mail = 1 ampoule allumée pendant 1 heure.
 
 # Niveau de difficulté du projet
 Le backend sera assez simple à mettre en place via l'utilisation d'un framework mobile populaire.
