@@ -56,8 +56,11 @@ Il est particulièrement important d'être organiser pour être efficace dans un
 Nous utilisons différents outils collaboratifs de communication comme Slack, Discord, GooleSlides et GitHub pour notre projet.
 
 - Quelle méthodologie de gestion de projet allez-vous mettre en oeuvre ?
+
 A quelle fréquence allez-vous faire des réunions, points de synchronisation ... ?
+
 Comment organisez-vous la répartitions des tâches, rôles, responsabilités entre vous ?
+
 Notre équipe étant composée de 3 membres pour un projet de 10 jours, nous avons donc décidé d'établir une communication qui se fait à l'oral avec un point tous les matins où que le chef de projet recense et assigne les tâches aux différents membres de l'équipe. Nous effectuons également des réunions en début d'après-midi et en fin de journée afin de discuter de notre avancement sur les différentes tâches. A noté que nous communiquons en permanence via des canaux de discussions sur Slack afin de résoudre rapidement les différents problèmes que nous pouvons rencontrer sur nos tâches.
 
 # Le projet
