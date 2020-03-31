@@ -50,9 +50,11 @@ Il s'agit avant tout de s'initier au travail en équipe, ainsi que de nouer des 
 
 # Organisation d'équipe
 - Au regard du contexte, en quoi il est particulièrement important de s'organiser pour être efficace ?
+
 Il est particulièrement important d'être organiser pour être efficace dans un contexte où il est demander de travailler en équipes à distance mais également de fournir plusieurs livrables parfois rapidement dans ces 10 prochains jours, ce qui nécéssite une gestion parfaite et une certaine rigeur envers le projet !
 
 - Quels outils de collaboratifs de communication, de partage allez-vous utiliser ?
+
 Nous utilisons différents outils collaboratifs de communication comme Slack, Discord, GooleSlides et GitHub pour notre projet.
 
 - Quelle méthodologie de gestion de projet allez-vous mettre en oeuvre ? | A quelle fréquence allez-vous faire des réunions, points de synchronisation ... ? | Comment organisez-vous la répartitions des tâches, rôles, responsabilités entre vous ?
