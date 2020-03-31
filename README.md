@@ -1,5 +1,8 @@
 # MHN
 Campus Track
+Maxime LEBRETON
+Nicolas HAMY
+Hugo HERAULT
 
 # Nos points communs : 
 - Développeurs Web
@@ -45,5 +48,36 @@ Notre slogan : "Welcome to your flop"
 # Qu'avez vous compris de Campus Track ?
 Il s'agit avant tout de s'initier au travail en équipe, ainsi que de nouer des liens avec d'autres personne au travers de l'école. Mais également de répondre à un besoin client, qui dans notre cas est une approche numérique afin de sensibilisé le plus de personnes au grand thème de l'environnement et de l'avenir de notre planête.
 
+# Organisation d'équipe
+Notre équipe étant composé de 3 membres, la communication se fait à l'oral avec un point tout les matins pour discuter de notre avancement sur les différentes tâches. Le chef de projet recense et assigne les tâches aux différents membres de l'équipe.
+
 # Le projet
 Nous avons choisi le projet n°1 : La pollution du numérique
+
+# Qui est votre annonceur ?
+Notre annonceur est Clément LEVARD
+
+# Quelle est sa problématique ?
+Sensibiliser la population à l'impact du numérique sur notre consommation de Co2.
+
+# Pourquoi fait-il appel à vous ?
+Nous somme jeunes, étudiant dans le domaine en question, et étant capable d'aporter notre expertise sur le sujet.
+
+# Que pouvez-vous lui apporter ?
+Notre point de vue et nos compétences dans le domaine informatique.
+
+# Quel est votre vision du projet ?
+Nous souhaitons réaliser une application pour smartphone, montrant l'impact de l'envois d'un, ou plusieurs, mail(s) sur la quantité d'émission de Co2.
+
+# Qui sont les utilisateurs ?
+Pour tout les utilisateur d'une adresse mail
+
+# La fonctionnalité
+Il s'agit d'une barre de progression réglable par l'utilisateur, indiquant le nombre de mail à envoyer. En fonction de la valeur renvoyé par cette barre, on calcule la quantité de Co2 rejeté que l'on compare à d'autre source externe. Exemple : 1 mail = 1 ampoule allumée pendant 1 heure.
+
+# Niveau de difficulté du projet
+Le backend sera assez simple à mettre en place via l'utilisation d'un framework mobile populaire.
+Le front demandera un peu plus de temps afin de prévoir une charte graphique adéquate.
+
+# Coût
+Les frais de création d'un compte développeur sur le playstore de Google, afin d'héberger l'apk.
