@@ -53,35 +53,35 @@ Il s'agit avant tout de s'initier au travail en équipe, ainsi que de nouer des 
 
 - Nous utilisons différents outils collaboratifs de communication comme Slack, Discord, GooleSlides et GitHub pour notre projet.
 
-- Notre équipe étant composé de 3 membres pour un projet de 10 jours, nous avons donc décider d'établir une communication se fait à l'oral avec un point tout les matins où que le chef de projet recense et assigne les tâches aux différents membres de l'équipe. Nous effectons également des réunions en début d'après-midi et en fin de journée afin de discuter de notre avancement sur les différentes tâches. A noté que nous communiquons en permanence via des canaux de discussions sur Slack afin de résoudre rapidement les différents problèmes qu'on puisse rencontrer sur nos tâches.
+- Notre équipe étant composé de 3 membres pour un projet de 10 jours, nous avons donc décider d'établir une communication se fait à l'oral avec un point tous les matins où que le chef de projet recense et assigne les tâches aux différents membres de l'équipe. Nous effectons également des réunions en début d'après-midi et en fin de journée afin de discuter de notre avancement sur les différentes tâches. A noté que nous communiquons en permanence via des canaux de discussions sur Slack afin de résoudre rapidement les différents problèmes qu'on puisse rencontrer sur nos tâches.
 
 # Le projet
 Nous avons choisi le projet n°1 : La pollution du numérique
 
 # Qui est votre annonceur ?
-Notre annonceur est Clément LEVARD
+Notre annonceur est Hadrien LEVARD Ingénieur en agro-développement et président de président de l'association "La cité de l'environnement"
 
 # Quelle est sa problématique ?
-Sensibiliser la population à l'impact du numérique sur notre consommation de Co2.
+La principale problématique du projet est de sensibiliser la population à l'impact du numérique sur notre consommation de Co2.
 
 # Pourquoi fait-il appel à vous ?
-Nous somme jeunes, étudiant dans le domaine en question, et étant capable d'aporter notre expertise sur le sujet.
+Nous sommes jeunes, étudiant dans le domaine en question, et étant capable d'apporter notre expertise sur le sujet.
 
 # Que pouvez-vous lui apporter ?
-Notre point de vue et nos compétences dans le domaine informatique.
+Notre point de vue ainsi que nos compétences dans le domaine informatique.
 
 # Quel est votre vision du projet ?
 Nous souhaitons réaliser une application pour smartphone, montrant l'impact de l'envois d'un, ou plusieurs, mail(s) sur la quantité d'émission de Co2.
 
 # Qui sont les utilisateurs ?
-Pour tout les utilisateur d'une adresse mail
+Les utilisateurs concernés, plus précisemment tous les utilisateur possédant au moins une adresse mail.
 
 # La fonctionnalité
 Il s'agit d'une barre de progression réglable par l'utilisateur, indiquant le nombre de mail à envoyer. En fonction de la valeur renvoyé par cette barre, on calcule la quantité de Co2 rejeté que l'on compare à d'autre source externe. Exemple : 1 mail = 1 ampoule allumée pendant 1 heure.
 
 # Niveau de difficulté du projet
-Le backend sera assez simple à mettre en place via l'utilisation d'un framework mobile populaire.
-Le front demandera un peu plus de temps afin de prévoir une charte graphique adéquate.
+La partie backend sera assez simple à mettre en place via l'utilisation d'un framework mobile populaire.
+La partie front demandera un peu plus de temps afin de prévoir une charte graphique adéquate au projet en question.
 
 # Coût
 Les frais de création d'un compte développeur sur le playstore de Google, afin d'héberger l'apk.
